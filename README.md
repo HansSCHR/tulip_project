@@ -33,8 +33,7 @@ To install Tulip, you can download the last AppImage version : http://tulip.labr
 
 The script is already launched. 
 
-You can see it in the "Python IDE" window. 
-To open it, tape on the button "Python IDE" on the left sidebar.
+3) You want see the script ? Open "Python IDE" on the left sidebar.
 
 
 ## Built With
