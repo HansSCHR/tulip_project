@@ -1,4 +1,5 @@
-# Project – Visual analysis of gene expression data
+# Second year of bioinformatics master's degree project :
+# Visual analysis of gene expression data
 
 From a regulation network of Escherichia coli genes dataset, we wrote a script used on the framework of data visualisation Tulip in order to display and analyse it. 
 
@@ -15,7 +16,7 @@ $ git clone https://github.com/HansSCHR/tulip_project/
 
 To run the script you need a linux environment, to install Python and the framework Tulip. 
 
-You can use Python2 or Python3. Python is installed by default in your linux environment. If you want install Python3, run in your terminal : 
+You can use Python2 or Python3. Python2 is installed by default in your linux environment. If you want install Python3, run in your terminal : 
 
 ```
 $ sudo apt-get update
