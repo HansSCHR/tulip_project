@@ -29,13 +29,10 @@ To install Tulip, you can download the last AppImage version : http://tulip.labr
 
 1) Run Tulip.
 
-2) Load dataset : In the "File" tab, select "Open" and choose the dataset file "ecoliK12_etd.tlpx" 
+2) Load file : In the "File" tab, select "Open" and choose the file "results.tlpx". 
 
-3) Open "Python IDE" on the left sidebar. 
-
-4) Load script : choose "Load" and select the script "script.py". 
-
-5) Run script : choose the display logo bottom left window.
+The script is already launched. You can see it in the "Python IDE" window. 
+To open it, tape on the button "Python IDE" on the left sidebar.
 
 
 ## Built With
