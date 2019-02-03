@@ -31,7 +31,9 @@ To install Tulip, you can download the last AppImage version : http://tulip.labr
 
 2) Load file : In the "File" tab, select "Open" and choose the file "results.tlpx". 
 
-The script is already launched. You can see it in the "Python IDE" window. 
+The script is already launched. 
+
+You can see it in the "Python IDE" window. 
 To open it, tape on the button "Python IDE" on the left sidebar.
 
 
