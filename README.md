@@ -16,7 +16,9 @@ $ git clone https://github.com/HansSCHR/tulip_project/
 
 To run the script you need a linux environment, to install Python and the framework Tulip. 
 
-You can use Python2 or Python3. Python2 is installed by default in your linux environment. If you want install Python3, run in your terminal : 
+You can use Python2 already installed in your linux environment. 
+
+But you can use Python3 if you want. To install Python3, run in your terminal : 
 
 ```
 $ sudo apt-get update
