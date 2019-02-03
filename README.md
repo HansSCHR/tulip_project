@@ -26,25 +26,21 @@ To install Tulip, you can download the last AppImage version : http://tulip.labr
 
 ### Running
 
-Run Tulip.
+1) Run Tulip.
 
-In the "File" tab, select "Open" and choose the dataset file ("ecoliK12_etd.tlpx") to load it. 
+2) Load dataset : In the "File" tab, select "Open" and choose the dataset file "ecoliK12_etd.tlpx" 
 
-Now, open "Python IDE" on the left sidebar. 
+3) Open "Python IDE" on the left sidebar. 
 
-On the Tulip Python IDE, choose "Load" and select the script ("script.py"). 
+4) Load script : choose "Load" and select the script "script.py". 
 
-Finally, choose the display logo bottom left of the Tulip Python IDE window. 
-
-Script is running. 
+5) Run script : choose the display logo bottom left.
 
 
 ## Built With
 
 * [Tulip 5.2.1](http://tulip.labri.fr/TulipDrupal/) - The framework of data visualisation used
-* [Tulip Python] - Python environment integrated on Tulip used to write the script
-              API Python : http://tulip.labri.fr/Documentation/current/tulip-python/html/tulipguireference.html
-
+* [Tulip Python](http://tulip.labri.fr/Documentation/current/tulip-python/html/tulipguireference.html) - Python environment integrated on Tulip used to write the script
 
 
 ## Authors
@@ -52,6 +48,7 @@ Script is running.
 * **Déborah Cottais** 
 * **Hans Schrieke** 
 
+
 ## Supervisor 
 
-* **Mr Romain Bourqui ** 
+* **Mr Romain Bourqui** 
