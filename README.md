@@ -35,7 +35,7 @@ To install Tulip, you can download the last AppImage version : http://tulip.labr
 
 4) Load script : choose "Load" and select the script "script.py". 
 
-5) Run script : choose the display logo bottom left.
+5) Run script : choose the display logo bottom left window.
 
 
 ## Built With
