@@ -1,6 +1,6 @@
 # Project – Visual analysis of gene expression data
 
-From a regulation network of Escherichia coli genes dataset, we wrote a script with the framework of data visualisation Tulip in order to display and analyse it. 
+From a regulation network of Escherichia coli genes dataset, we wrote a script used on the framework of data visualisation Tulip in order to display and analyse it. 
 
 
 ## Getting Started
