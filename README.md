@@ -24,7 +24,7 @@ But you can use Python3 if you want. To install Python3, run in your terminal :
 $ sudo apt-get update
 $ sudo apt-get install python3.6
 ```
-To install Tulip, you can download the last AppImage version : http://tulip.labri.fr/TulipDrupal/
+To install Tulip, you can download the last AppImage version on Tulip official website : http://tulip.labri.fr/TulipDrupal/
 
 
 ### Running
